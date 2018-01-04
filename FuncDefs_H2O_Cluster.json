@@ -1,0 +1,29 @@
+{
+    "Functions" : [
+        {
+            "Id" : 0,
+            "Name" : "Cluster",
+            "Type" : 2,
+            "ReturnType": 1,
+            "Params" : {
+                    "col1" : 1,
+                    "col2" : 1,
+                    "col3" : 1,
+                    "col4" : 1,
+                    "col5" : 1
+                }
+        },
+        {
+            "Id" : 1,
+            "Name" : "Evaluate",
+            "Type" : 2,
+            "ReturnType": 1,
+            "Params" : {
+                    "col1" : 1,
+                    "col2" : 1,
+                    "col3" : 1,
+                    "col4" : 1
+                }
+        }
+    ]
+}
